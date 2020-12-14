@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ziwen-wang.github.io.git/2020/12/10/hello-world/</loc>
+    <loc>https://ziwen-wang.github.io.git/404.html</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ziwen-wang.github.io.git/about/index.html</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ziwen-wang.github.io.git/2020/12/14/vue/</loc>
     
     <lastmod>2020-12-14</lastmod>
     
@@ -10,6 +24,13 @@
   
   <url>
     <loc>https://ziwen-wang.github.io.git/2017/07/29/post-title/</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ziwen-wang.github.io.git/2020/12/10/hello-world/</loc>
     
     <lastmod>2020-12-14</lastmod>
     
@@ -23,6 +44,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://ziwen-wang.github.io.git/tags/vue/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
